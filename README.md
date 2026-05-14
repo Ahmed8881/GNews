@@ -5,8 +5,9 @@ A simple Android news app demo built with Kotlin, Retrofit, Glide, Room, and Vie
 **Status:** Prototype
 
 **Screenshots**
-- Main screen (shows new country dropdown):
+- Main screen 
   <img width="246" height="532" alt="image" src="https://github.com/user-attachments/assets/491eba9a-7783-49cd-a8a8-c838c63f872a" />
+  - Main screen (shows new country dropdown):
 <img width="235" height="533" alt="image" src="https://github.com/user-attachments/assets/e26f7abe-f5d4-4317-8bc5-5c05ad869139" />
 
 - Full article screen:
