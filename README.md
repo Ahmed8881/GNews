@@ -6,11 +6,14 @@ A simple Android news app demo built with Kotlin, Retrofit, Glide, Room, and Vie
 
 **Screenshots**
 - Main screen (shows new country dropdown):
-  - ![Main screen](images/main_screen.png)
-- Full article screen:
-  - ![Article screen](images/article_screen.png)
+  <img width="246" height="532" alt="image" src="https://github.com/user-attachments/assets/491eba9a-7783-49cd-a8a8-c838c63f872a" />
+<img width="235" height="533" alt="image" src="https://github.com/user-attachments/assets/e26f7abe-f5d4-4317-8bc5-5c05ad869139" />
 
-(Place your screenshots in `images/` using the filenames above.)
+- Full article screen:
+  <img width="240" height="512" alt="image" src="https://github.com/user-attachments/assets/336a4ed3-7168-485c-92b3-b402e4bf187e" />
+
+
+
 
 **Features**
 - Fetches headlines from GNews API
@@ -18,13 +21,6 @@ A simple Android news app demo built with Kotlin, Retrofit, Glide, Room, and Vie
 - Search and filter articles
 - View full article details
 - Offline caching with Room (basic)
-
-**Quick Setup**
-- Add your API key to `local.properties`:
-
-```
-NEWS_API_KEY=your_api_key_here
-```
 
 - Build and run (Windows):
 
