@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Quiz2</string>
+    <string name="app_name_display">NewsHub</string>
+    <string name="tagline">Your Daily News Companion</string>
+    <string name="search_hint">Search news…</string>
+    <string name="select_country">Select Country</string>
+    <string name="refresh">Refresh</string>
+    <string name="retry">Retry</string>
+    <string name="try_again">Try Again</string>
+    <string name="read_full_article">Read Full Article</string>
+    <string name="article_image">Article image</string>
+    <string name="error_default">Something went wrong.\nCheck your connection and try again.</string>
+    <string name="no_results">No articles found.</string>
+    <string name="label_description">DESCRIPTION</string>
+    <string name="label_content">CONTENT PREVIEW</string>
 </resources>
